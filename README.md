@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tilakbishwakrma
+- 👋 Hi, I’m @Tilakbishwakarma
 - 👀 I’m interested in web development and software development 
 - 🌱 I’m currently learning software engineering here at NCIT, kathmandu
 - 💞️ I’m looking to collaborate on Any Software development projects
